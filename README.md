@@ -50,6 +50,11 @@ Make sure you have the Ncurses library installed on your system.
 - `main.c`: Contains the main function to initialize the game, handle inputs, and run the game loop.
 - `game.c`: Implements the core logic of the Snake game, including functions for initializing the game, handling inputs, updating the snake, generating food, and rendering the game window.
 
+## About project
+- **Development Period:**
+  - Worked on this project in 2021 during my Engineer degree at ESME Sudria
+
+
 ### How to Contribute
 
 If you have ideas for improvements, new features, or bug fixes, feel free to contribute! Fork the repository, make your changes, and submit a pull request.
